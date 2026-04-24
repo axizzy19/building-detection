@@ -13,6 +13,9 @@
 - строить бинарные маски зданий
 - обобщаться на новые изображения
 
+## Запуск проекта
+[start](https://github.com/axizzy19/building-detection/blob/main/start.md)
+
 ## Датасет
 Использован датасет:
 - Massachusetts Buildings Dataset (Kaggle)
