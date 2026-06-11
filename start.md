@@ -3,7 +3,7 @@
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/your-username/building-segmentation.git
+git clone https://github.com/axizzy19/building-segmentation.git
 cd building-segmentation
 ```
 
