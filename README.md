@@ -18,7 +18,7 @@
 
 ## Датасет
 Использован датасет:
-- Massachusetts Buildings Dataset (Kaggle)
+- Massachusetts Buildings Dataset (Kaggle): https://www.kaggle.com/datasets/balraj98/massachusetts-buildings-dataset
 
 Содержит:
 - изображения (формат `.tiff`)
